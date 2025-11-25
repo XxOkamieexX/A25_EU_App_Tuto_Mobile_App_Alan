@@ -1,1 +1,2 @@
-# A25_EU_App_Tuto_Mobile_App_Alan
+# A25_EU_WizApp
+Application WizArt : WizApp
